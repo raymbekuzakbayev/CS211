@@ -95,3 +95,4 @@ public class ATM {
     }
 }
 
+public main void
